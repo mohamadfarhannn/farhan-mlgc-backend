@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "starry-will-424205-e2",
+  "private_key_id": "3eadb10e60609764981283885a900558d7a9d58e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXjjJN/vFefxT+\nhNjcxOKG+2sW7yaIeRFDFcc8PWLhM+5HtH2TP2gc1EZgCgBIGrxeo0ZmDkcmd6yi\nxZ3x1/XBGcnrdt95PCF/F4vAc7eI2mwT58Xl2z3UnOQGmtPuUOqNon+/0wJ/LMwo\n9vXgARtpZzFK9zMNRmrnjy6J2/+MttPNdy6r9PDaRiK1wGlyrAFPwuFIOOFwX74h\nprwM55+wM0/b7UdTYzsiGO8FxCpWTuzuxqFfjS7XqSJ63S8bS0Rmj6Y6EJ1S/Ray\n3fPCdaTrCUIBGVrOcB+TYw53wpEgUcdLvmRY/SSNye6DXUPRszKFfLv0KHB8kgXX\nAwPUWGbdAgMBAAECggEACySGMCQDINs6PYH3bs3eniWB3gsMZngeQTQqnz7KfxEX\ndGKsYTqGH/5/GRm1zmysIPojV3wLwPkyB7qnTkFo8mmqu0WUuyAPvL12sIThf4NC\n8yNf3QflmnTu3UnItKrIKqHXVNDBttIh8DjDYuo57CHikXwuHvb92P4MN3sQZXWW\nYValLnjipWQ4TEsIm+jYfk/htcA8XBEI8v8vwW0FUcBu9TlwOoEKKYf4zncmXx+o\n803+HKVaOvWGAKlvILrTXotzMOd+CQ23Zidc2eG66Y8LUgMl7aL5IT0w7OQKfkKf\ny5cQO454Vqz8hVSwRra5Evd4RfbtbNCIwmozt8U96QKBgQDN6F/lDAS+HCiRjHbS\nlIRtnKkkUnI6x7Wt2tXM9gh0IlxNCX/Ilb8/k5PqHVfd9CDvGyIBL7k54m/Igz4n\nPFXL4EoeJKABX0blcASXbC1JlXmFd6c5/cFFuPDRbITRkf9ynYuX9bEAmy+sSq38\n3KzQK17HRZaKThXNDQcGaCmsJQKBgQC8bNgkY1YLqz1Qq5VLkZEBGR7GgMdktGTR\nO3zo1zU8WKFsWLIkEKnLwQ5rr5BDLXXStIaHI0TnSFuyf2opDgwe7tTIX624XE0p\nkZT4MVOnPs6AiZSPKu29/Sh9jDAxcNHUahyU/DPBUFq7YA5HwTytE9Hn6GLiqqao\n1TtshbD2WQKBgF1NvA5tSMTgu51gmgNIG04UHC0CUxLBpljWfeU3Y5NEcrDR6h55\nhMUJWZBPpZ5E3puanukMuBE7w02H8yUSWQpeYxePnxWgF98lyF7ZPRhH7F4HXzaO\n/wJaEH3Ff9X7I1bLfxLn2UIeEBcxa+/WC1T1IiiIJvQa+BQHoDROBPwlAoGAaasc\nt6NhsN+SXjgrXJrA1/3PbYDw0T/9Pf1/elCeUT5fIJTJKkKSBms4/BkT7SiEZ+rH\neufDj3Tbv8mGrolrMLm9aLWHhdl1iHdVNK7s++DUC++b+YIYm7BqUaYZrNBZTCdJ\n6h9ZovK+P1CKEaGDtohj8gs30WfkWNBkJ+L9r9kCgYEArjUphuWW/3JMD6ne/lb4\nks8h2Yz0N0qCA0bJSRsvegWexauf0WBfjlRStGwKGFuX/cMxoiwr20omP7yl0X0x\naUP+IVo2pnKb3wv/lrTArEBxLMIoGrI8SvQd2g6CYmF2L1Hw28UF2hzWQRoOV0oX\nXgk6hnN/PLAxaAeid2bBBTY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-key-cancer-prediction@starry-will-424205-e2.iam.gserviceaccount.com",
+  "client_id": "117187065067178021842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-key-cancer-prediction%40starry-will-424205-e2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
